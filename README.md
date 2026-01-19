@@ -1,6 +1,6 @@
-# Resum per a l'Examen: Fragments i Menus
+# Resum: Fragments i Menus
 
-Aquest document resumeix els punts clau que hem implementat. Uneix-lo per repassar!
+Aquest document resumeix els punts clau que hem implementat.
 
 ## 1. Estructura Bàsica d'un Fragment
 Un fragment necessita dos mètodes principals:
