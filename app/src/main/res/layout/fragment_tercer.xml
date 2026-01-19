@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:orientation="vertical"
+    tools:context=".TercerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tvExperiencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Experiencia"
+        android:gravity="center"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/tvTipus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tipus"
+        android:gravity="center"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/tvPeriode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Periode"
+        android:gravity="center"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/tvExperiencia2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Experiencia2"
+        android:gravity="center"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/tvTipus2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tipus2"
+        android:gravity="center"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/tvPeriode2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Periode2"
+        android:gravity="center"
+        android:textSize="26dp" />
+
+</LinearLayout>

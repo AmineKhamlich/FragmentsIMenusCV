@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    android:orientation="vertical"
+    tools:context=".SegonFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tvTitol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Titol"
+        android:gravity="center"
+        android:textSize="26dp" />
+    <TextView
+        android:id="@+id/tvEntitat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Entitat"
+        android:gravity="center"
+        android:textSize="26dp" />
+    <TextView
+        android:id="@+id/tvAnyAssoliment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AnyAssoliment"
+        android:gravity="center"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/tvTitol2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Titol2"
+        android:gravity="center"
+        android:textSize="26dp" />
+    <TextView
+        android:id="@+id/tvEntitat2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Entitat2"
+        android:gravity="center"
+        android:textSize="26dp" />
+    <TextView
+        android:id="@+id/tvAnyAssoliment2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AnyAssoliment2"
+        android:gravity="center"
+        android:textSize="26dp" />
+
+
+</LinearLayout>
