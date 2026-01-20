@@ -2,17 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/itemFragment1"
-        android:icon="@drawable/ic_fragment"
+        android:icon="@drawable/ic_informacio"
         android:title="Primer"
         />
     <item
         android:id="@+id/itemFragment2"
-        android:icon="@drawable/ic_fragment"
+        android:icon="@drawable/ic_formacio_academica"
         android:title="Segon"
         />
     <item
         android:id="@+id/itemFragment3"
-        android:icon="@drawable/ic_fragment"
+        android:icon="@drawable/ic_experiencia_laboral"
         android:title="Tercer"
         />
 
